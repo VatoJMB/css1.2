@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+#container {
+    padding: 24px;
+    width: 1200px;
+}
+
+#header h1 {
+    font-size: 72px;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 36px;
+    display: block;
+    margin-left: 341px;
+    margin-top: 24px;
+    margin-right: 342px;
+    text-align: center;
+    width: 1237px;
+    height: 86px;
+
+
+}
+
+#article-section {
+    width: 722px;
+    margin-left: 24px;
+    padding-top: 120px;
+}
+
+#stary-night img {
+    width: 568px;
+    height: 447px;
+    display: block;
+    margin-left: 24px;
+}
+
+#stary-night h2 {
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 12px;
+    text-align: left;
+    margin-left: 24px;
+}
+
+#main-text {
+    font-size: 20px;
+    text-align: left;
+    color: #4a4a4a;
+    margin-top: 16px;
+    margin-left: 24px;
+}
+
+#description, #description-2, #description-3 {
+    font-size: 16px;
+    color: #2563eb;
+    margin-top: 16px;
+    text-align: left;
+    margin-left: 24px;
+}
+
+#read-more {
+    padding: 12px 32px;
+    margin-top: 32px;
+    font-size: 24px;
+    color: #ca8a04;
+    border: 2px solid #ca8a04;
+    margin-left: 24px;
+}
+
+#glowing-creatures {
+    margin-top: 80px;
+    margin-left: 24px;
+}
+
+#glowing-creatures h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #000000;
+    text-align: left;
+    margin-left: 24px;
+}
+
+#intro-text {
+    font-size: 20px;
+    text-align: left;
+    color: #4a4a4a;
+    margin-top: 16px;
+    margin-left: 24px;
+}
+
+#how-it-works {
+    margin-top: 24px;
+    text-align: left;
+    margin-left: 24px;
+}
+
+#how-it-works h3 {
+    font-size: 20px;
+    text-align: left;
+    color: #10b981;
+    margin-left: 24px;
+}
+
+#how-it-works p {
+    font-size: 16px;
+    text-align: left;
+    color: #ec4899;
+    margin-top: 16px;
+    margin-left: 24px;
+}
+
+#glowing-creatures img {
+    display: block;
+    height: auto;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+
+#info-box {
+    margin-top: 24px;
+    padding: 16px;
+    background-color: #fce7f3;
+    border: 6px solid #be185d;
+    text-align: left;
+    margin-left: 24px;
+    width: 568px;
+}
+
+#info-box h3 {
+    font-size: 24px;
+    font-weight: 800;
+    color: #4a4a4a;
+    margin: 0;
+    margin-left: 24px;
+}
+
+#examples {
+    padding: 0;
+    margin: 16px 0 0;
+    margin-left: 24px;
+}
+
+.example-item {
+    margin-top: 8px;
+    margin-left: 24px;
+}
+
+.dot {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: #000000;
+    border-radius: 50px;
+    margin-right: 12px;
+}
+
+.example-item p {
+    display: inline-block;
+    color: #d97706;
+    font-size: 16px;
+    margin: 0;
+}
+
+#see-more {
+    display: block;
+    text-align: right;
+    font-size: 24px;
+    color: #06b6d4;
+    margin-top: 24px;
+    margin-left: 24px;
+}
